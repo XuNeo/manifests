@@ -5,5 +5,5 @@
 
 	<project path="nuttx" name="XuNeo/incubator-nuttx" />
 	<project path="apps" name="XuNeo/incubator-nuttx-apps" />
-	<project path="apps/graphics/lvgl/lvgl" name="neo/lvgl" />
+	<project path="apps/graphics/lvgl/lvgl" name="XuNeo/lvgl" />
 </manifest>
