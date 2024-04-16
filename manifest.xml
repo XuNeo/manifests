@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="ssh://git@github.com" name="neo"/>
-	<default remote="neo" revision="master" sync-j="2" />
+	<remote fetch="ssh://git@github.com" name="github"/>
+	<default remote="github" revision="master" sync-j="2" />
 
-	<project path="nuttx" name="neo/incubator-nuttx" />
-	<project path="apps" name="neo/incubator-nuttx-apps" />
+	<project path="nuttx" name="XuNeo/incubator-nuttx" />
+	<project path="apps" name="XuNeo/incubator-nuttx-apps" />
 	<project path="apps/graphics/lvgl/lvgl" name="neo/lvgl" />
 </manifest>
